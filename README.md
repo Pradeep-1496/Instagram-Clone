@@ -46,7 +46,7 @@ The core idea is to create a social media platform similar to Instagram webpage
 - **Front-end**: 
     - HTML
     - CSS
-- ***Back-end**: 
+- **Back-end**: 
     - javascript
 
 
