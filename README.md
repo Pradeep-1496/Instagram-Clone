@@ -1,0 +1,77 @@
+
+# Instagram Clone
+
+
+
+![HTML](https://img.shields.io/badge/HTML5-ff6f00?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-001aff?&style=for-the-badge&logo=css3&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![workspace](https://img.shields.io/badge/Intel-Core_i5_12th-001af?style=for-the-badge&logo=intel&logoColor=white)
+
+![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+
+![edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzUuOTc1MDA4MDEwODY0MjYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzUuOTc1MDA4MDEwODY0MjYgMzUiPjxyZWN0IHdpZHRoPSI4NS4zMjUwMDQ1Nzc2MzY3MiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzU3NTc1NyIvPjxyZWN0IHg9Ijg1LjMyNTAwNDU3NzYzNjcyIiB3aWR0aD0iNTAuNjUwMDAzNDMzMjI3NTQiIGhlaWdodD0iMzUiIGZpbGw9IiMwMGQ3MjMiLz48dGV4dCB4PSI0Mi42NjI1MDIyODg4MTgzNiIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkxJQ0VOU0U8L3RleHQ+PHRleHQgeD0iMTEwLjY1MDAwNjI5NDI1MDQ5IiB5PSIxNy41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPk1JVDwvdGV4dD48L3N2Zz4=)](https://choosealicense.com/licenses/mit/)
+
+
+
+Building an Instagram clone project can be a great way to showcase your programming skills, learn new technologies, and even have some fun! Here's a breakdown of what you can expect
+
+# Concept:
+
+The core idea is to create a social media platform similar to Instagram webpage
+
+
+## Features
+
+- Authentication
+- Light/dark mode toggle
+- Responsive
+- Live previews
+- Fullscreen mode
+- Cross platform
+- Latest instagram reels option 
+
+## Technologies:
+
+
+- **Front-end**: 
+    - HTML
+    - CSS
+- ***Back-end**: 
+    - javascript
+
+
+## Challenges:
+
+- **Authentication and authorization:** Securely handling user accounts and data access.
+- **Image and video processing:** Resizing, storing, and delivering images and videos efficiently.
+- **Scalability:** Designing the system to handle a growing number of users and posts.
+
+## Benefits:
+
+- **Learn new technologies:** Gain practical experience with various programming languages and frameworks.
+- **Improve your coding skills:** Apply your knowledge to solve real-world problems.
+- **Build a portfolio project:** Showcase your skills to potential employers or graduate schools.
+Have fun! It's a rewarding experience to see your project come to life and be used by others.
+
+## Additional Tips:
+
+- Start small and focus on core features first.
+- Use open-source libraries and frameworks to save time.
+- Test your code thoroughly and fix bugs as you go.
+- Document your code and process for future reference.
+- Present your project to your classmates, professors, or even in hackathons.
+
+## Authors
+
+- [@Pradeep_Prajapati](https://www.github.com/Pradeep-1496)
+
