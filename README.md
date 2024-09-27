@@ -19,9 +19,6 @@
 
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
-[![LICENCE-MIT](https://img.shields.io/badge/License-MIT-29de00.svg)](https://choosealicense.com/licenses/mit/)
-
-
 
 Building an Instagram clone project can be a great way to showcase your programming skills, learn new technologies, and even have some fun! Here's a breakdown of what you can expect
 
@@ -73,6 +70,4 @@ Have fun! It's a rewarding experience to see your project come to life and be us
 
 ## Authors
 
-- [@Pradeep_Prajapati](https://www.github.com/Pradeep-1496)
-- [@Aakanksha Kumari](https://www.github.com/aakanksha2004)
-
+- [@Pradeep_Prajapati](https://www.github.com/Pradeep-1496
